@@ -1,37 +1,47 @@
 <div align="center">
 
-![Kinbex Master Brand Banner](assets/kinbex-logo-horizontal.svg)
+![Kinbex Official Header Banner](assets/kinbex-banner.png)
 
 # KINBEX MASTER TECHNICAL WHITEPAPER
 ### The Unified Web3 Social Terminal, Alpha Verification, Kin Pay Financial Rails, & Gaming Ecosystem
 
-[![Protocol Version](https://img.shields.io/badge/Specification-v3.0.0--PROD-0052FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://kinbex.com)
-[![Canonical Domain](https://img.shields.io/badge/Domain-kinbex.com-FFB800?style=for-the-badge&logo=googlechrome&logoColor=black)](https://kinbex.com)
+[![Specification](https://img.shields.io/badge/Specification-v3.0.0--PROD-032BC8?style=for-the-badge&logo=gitbook&logoColor=white)](https://kinbex.com)
+[![Domain](https://img.shields.io/badge/Domain-kinbex.com-FFCC03?style=for-the-badge&logo=googlechrome&logoColor=black)](https://kinbex.com)
 [![Official X](https://img.shields.io/badge/X-@kinbexapp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kinbexapp)
-[![Architecture](https://img.shields.io/badge/Architecture-Non--Custodial%20Enclave-10B981?style=for-the-badge&logo=web3dotjs&logoColor=white)](02-system-architecture/01-client-runtime-and-enclave.md)
-[![Status](https://img.shields.io/badge/GitBook-Synchronized-0052FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/youngcrypton/kinbex)
+[![Brand Colors](https://img.shields.io/badge/Brand%20Palette-%23032BC8%20%7C%20%23FFCC03-032BC8?style=for-the-badge)](assets/kinbex-logo.png)
+[![Status](https://img.shields.io/badge/GitBook-Synchronized-032BC8?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/youngcrypton/kinbex)
 
 </div>
 
 ---
 
-## 🏛️ Brand Identity & Protocol Philosophy
+## 🎨 Official Brand Kit & Identity System
 
-The name and visual identity of **KINBEX** reflect the convergence of high-velocity technical execution and decentralized human coordination:
+The visual identity of **KINBEX** is anchored by its core two-color chromatic system and dual kinetic symbol:
 
-* **KIN (Kinetic Energy):** Represents forward momentum, algorithmic technology, liquidity velocity, and the constant innovation driving decentralized markets.
-* **BEX (Community):** Represents the collective intelligence of traders, builders, developers, researchers, and alpha callers who give the network its purpose.
-* **The Symbol:** Two interconnected kinetic forms moving together as one—visually articulating the seamless synthesis where technology meets community participation.
-* **Brand Color Palette:**
-  * **Electric Cobalt** (`#0052FF` / `#0047FF`): Represents cryptographic security, speed, and institutional precision.
-  * **Radiant Gold** (`#FFB800` / `#FFC72C`): Represents verified alpha, earned value, liquidity, and prosperity.
-  * **Obsidian Deep Space** (`#040816` / `#071126`): Represents sovereign non-custodial privacy and resilient infrastructure.
+<div align="center">
+  <img src="assets/kinbex-logo.png" width="160" alt="Official Kinbex Logo Mark" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(3, 43, 200, 0.4); margin: 12px;" />
+  <img src="assets/kinbex-mascot-techwear.jpg" width="160" alt="Kinbex 3D Protocol Mascot" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(255, 204, 3, 0.25); margin: 12px;" />
+  <img src="assets/kinbex-mascot-waving.jpg" width="160" alt="Kinara AI Ambassador" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(3, 43, 200, 0.4); margin: 12px;" />
+</div>
+
+### 1. The Core Color Palette
+| Color Role | Color Name | Hex Code | RGB | Visual Semantics |
+| :--- | :--- | :--- | :--- | :--- |
+| **Primary Base** | **Electric Royal Blue** | `#032BC8` | `rgb(3, 43, 200)` | Cryptographic integrity, liquidity depth, network sovereignty, and institutional trust |
+| **Primary Accent** | **Kinetic Golden Yellow** | `#FFCC03` | `rgb(255, 204, 3)` | Verified alpha, energy velocity, earned value, human optimism, and prosperity |
+
+### 2. Naming & Symbology Breakdown
+* **KIN (Kinetic Energy):** Forward momentum, execution velocity, continuous innovation, and liquidity routing.
+* **BEX (Community):** The decentralized collective of traders, builders, developers, researchers, and verified callers.
+* **The Dual Kinetic Nodes (Logo Mark):** Two interconnected, smooth metaball nodes moving together—symbolizing the inseparable convergence of technology (energy) and active community participation (people).
+* **Official Protocol Mascot (Kinara):** The cybernetic extraterrestrial ambassador embodying on-chain intelligence, community onboarding, and interactive terminal navigation.
 
 ---
 
-## 📋 Executive Overview
+## 📋 Executive Summary
 
-Decentralized finance (DeFi) and Web3 social coordination suffer from extreme operational fragmentation. Active market participants must constantly context-switch across 4 to 6 separate applications—discovering tokens on social feeds, checking contract safety on scanners, analyzing charts on DexScreener, executing swaps on decentralized exchanges, and navigating high-risk informal P2P desks to off-ramp proceeds into local fiat.
+Decentralized finance (DeFi) and Web3 community coordination are constrained by severe ecosystem fragmentation. Active market participants must constantly context-switch across 4 to 6 separate applications—discovering tokens on social feeds, checking contract safety on scanners, analyzing charts on DexScreener, executing swaps on decentralized exchanges, and navigating high-risk informal P2P desks to off-ramp proceeds into local fiat.
 
 **KINBEX** is the sovereign Web3 super-terminal built on `kinbex.com` that unifies the entire lifecycle into a single, high-throughput runtime:
 

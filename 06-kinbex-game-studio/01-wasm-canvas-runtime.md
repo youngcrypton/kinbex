@@ -8,6 +8,11 @@
 
 **Kinbex Game** is the entertainment and interactive engagement pillar of the Kinbex ecosystem. Recognizing that crypto traders experience high cognitive stress during volatile market conditions, Kinbex embeds lightweight, competitive Web3 mini-games directly inside `kinbex.com`.
 
+<div align="center">
+  <img src="../assets/kinbex-mascot-waving.jpg" width="220" alt="Kinbex Game Ambassador" style="border-radius: 16px; margin: 16px 0;" />
+  <p><em>Kinbex Game Studio — In-Terminal Interactive Mascot</em></p>
+</div>
+
 ---
 
 ## 2. Technical Architecture & In-Terminal Execution

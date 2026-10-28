@@ -8,13 +8,13 @@ description: The Unified Web3 Social Terminal, Alpha Verification, Kin Pay Finan
 
 theme:
   colors:
-    primary: "#0047FF"
-    accent: "#FFB800"
-    background: "#060B18"
-    sidebar: "#091326"
+    primary: "#032BC8"
+    accent: "#FFCC03"
+    background: "#040816"
+    sidebar: "#071126"
 
 branding:
   logo:
-    url: assets/kinbex-logo-horizontal.svg
+    url: assets/kinbex-banner.png
   favicon:
-    url: assets/kinbex-logo.svg
+    url: assets/kinbex-logo.png
