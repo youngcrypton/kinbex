@@ -16,7 +16,7 @@ To protect community members, partners, and traders from phishing attacks, fake 
 │  • WhatsApp Hub: https://chat.whatsapp.com/kinbex      │
 │  • Telegram Community: https://t.me/kinbex             │
 │  • Discord Server: https://discord.gg/kinbex           │
-│  • X (Twitter): https://x.com/kinbex                   │
+│  • X (Twitter): https://x.com/kinbexapp                │
 │  • Instagram: https://instagram.com/kinbex             │
 │  • TikTok: https://tiktok.com/@kinbex                  │
 │  • Facebook: https://facebook.com/kinbex               │
@@ -34,7 +34,7 @@ To protect community members, partners, and traders from phishing attacks, fake 
 | **WhatsApp Community (Kinbex Movement)** | [Join WhatsApp Academy](https://chat.whatsapp.com/kinbex) | Grassroots Educational Classes & Direct Engineering Feedback |
 | **Telegram Community** | [t.me/kinbex](https://t.me/kinbex) | Global Real-Time Alpha Discussion & Terminal Announcements |
 | **Discord Server** | [discord.gg/kinbex](https://discord.gg/kinbex) | Developer Discussions, Gaming Tournaments, & AMAs |
-| **X (Formerly Twitter)** | [x.com/kinbex](https://x.com/kinbex) | Market Telemetry, Verified Caller Highlights, & News |
+| **X (Formerly Twitter)** | [@kinbexapp](https://x.com/kinbexapp) | Market Telemetry, Verified Caller Highlights, & News |
 | **Instagram** | [instagram.com/kinbex](https://instagram.com/kinbex) | Community Culture & Visual Updates |
 | **TikTok** | [tiktok.com/@kinbex](https://tiktok.com/@kinbex) | Micro-Lessons & Web3 Viral Content |
 | **Facebook** | [facebook.com/kinbex](https://facebook.com/kinbex) | Regional African Web3 Community Coordination |

@@ -1,63 +1,155 @@
-/* KINBEX GitBook Custom Brand System */
+/* ==========================================================================
+   KINBEX PROTOCOL MASTER STYLESHEET
+   The Unified Web3 Social Terminal & Decentralized Financial Rails
+   ========================================================================== */
+
 :root {
-  --kinbex-blue-primary: #0047FF;
-  --kinbex-blue-dark: #060B18;
-  --kinbex-blue-sidebar: #091326;
+  --kinbex-blue-primary: #0052FF;
+  --kinbex-blue-glow: rgba(0, 82, 255, 0.35);
+  --kinbex-blue-dark: #040816;
+  --kinbex-blue-card: #071126;
   --kinbex-gold-accent: #FFB800;
+  --kinbex-gold-glow: rgba(255, 184, 0, 0.35);
   --kinbex-gold-light: #FFDD55;
+  --kinbex-emerald: #10B981;
   --kinbex-text-main: #F8FAFC;
   --kinbex-text-muted: #94A3B8;
+  --kinbex-border: #1E293B;
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", Roboto, Helvetica, Arial, sans-serif;
   color: var(--kinbex-text-main);
+  background-color: var(--kinbex-blue-dark) !important;
+  -webkit-font-smoothing: antialiased;
 }
 
+/* Sidebar & Navigation */
 .book .book-summary {
-  background: var(--kinbex-blue-sidebar) !important;
-  border-right: 1px solid rgba(0, 71, 255, 0.25) !important;
+  background: var(--kinbex-blue-card) !important;
+  border-right: 1px solid rgba(0, 82, 255, 0.2) !important;
 }
 
 .book .book-summary ul.summary li a {
   color: var(--kinbex-text-muted) !important;
-  transition: all 0.2s ease-in-out;
+  font-size: 13.5px;
+  font-weight: 500;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  padding: 8px 16px;
+  border-radius: 6px;
+  margin: 2px 8px;
 }
 
 .book .book-summary ul.summary li a:hover,
 .book .book-summary ul.summary li.active > a {
-  color: var(--kinbex-gold-accent) !important;
-  font-weight: 600;
-  border-left: 3px solid var(--kinbex-blue-primary);
-  padding-left: 12px;
-}
-
-.page-inner {
-  max-width: 960px !important;
-}
-
-h1, h2, h3, h4 {
   color: #FFFFFF !important;
-  letter-spacing: -0.01em;
+  background: rgba(0, 82, 255, 0.15) !important;
+  border-left: 3px solid var(--kinbex-gold-accent) !important;
+  font-weight: 600;
+  padding-left: 14px;
+}
+
+/* Typography Hierarchy */
+h1, h2, h3, h4, h5, h6 {
+  color: #FFFFFF !important;
+  font-weight: 800;
+  letter-spacing: -0.02em;
 }
 
 h1 {
+  font-size: 2.2rem;
   border-bottom: 2px solid var(--kinbex-blue-primary) !important;
-  padding-bottom: 12px;
+  padding-bottom: 14px;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
+h2 {
+  font-size: 1.5rem;
+  color: #F1F5F9 !important;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  color: var(--kinbex-gold-accent) !important;
+}
+
+/* Links & Highlights */
 a {
-  color: var(--kinbex-blue-primary) !important;
+  color: #38BDF8 !important;
   text-decoration: none;
+  transition: color 0.15s ease-in-out;
 }
 
 a:hover {
   color: var(--kinbex-gold-accent) !important;
+  text-decoration: underline;
 }
 
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.5rem 0;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid var(--kinbex-border);
+  background: rgba(7, 17, 38, 0.6);
+}
+
+table th {
+  background: #0B1736 !important;
+  color: #FFFFFF !important;
+  font-weight: 700;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 12px 16px;
+  border-bottom: 2px solid var(--kinbex-blue-primary);
+}
+
+table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid rgba(30, 41, 59, 0.6);
+  font-size: 13.5px;
+  color: #CBD5E1;
+}
+
+table tr:last-child td {
+  border-bottom: none;
+}
+
+table tr:hover td {
+  background: rgba(0, 82, 255, 0.06);
+}
+
+/* Callouts & Quotes */
 blockquote {
   border-left: 4px solid var(--kinbex-gold-accent) !important;
-  background: rgba(255, 184, 0, 0.05);
-  padding: 12px 18px;
-  border-radius: 0 8px 8px 0;
+  background: rgba(255, 184, 0, 0.06) !important;
+  border-radius: 0 10px 10px 0;
+  padding: 14px 20px !important;
+  margin: 1.5rem 0 !important;
+  color: #E2E8F0 !important;
+}
+
+/* Code Blocks */
+pre {
+  background: #020612 !important;
+  border: 1px solid var(--kinbex-border) !important;
+  border-radius: 10px !important;
+  padding: 16px !important;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+}
+
+code {
+  background: rgba(0, 82, 255, 0.12) !important;
+  color: #38BDF8 !important;
+  padding: 2px 6px !important;
+  border-radius: 4px !important;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace !important;
+  font-size: 0.9em;
 }

@@ -260,7 +260,7 @@ All users, traders, and partners should verify authenticity against the official
 - **WhatsApp Community (Kinbex Movement):** [Join Official WhatsApp Group / Academy](https://chat.whatsapp.com/kinbex) *(Community admin link)*
 - **Telegram Community:** [https://t.me/kinbex](https://t.me/kinbex)
 - **Discord Server:** [https://discord.gg/kinbex](https://discord.gg/kinbex)
-- **X (Formerly Twitter):** [https://x.com/kinbex](https://x.com/kinbex)
+- **X (Formerly Twitter):** [@kinbexapp](https://x.com/kinbexapp)
 - **Instagram:** [https://instagram.com/kinbex](https://instagram.com/kinbex)
 - **TikTok:** [https://tiktok.com/@kinbex](https://tiktok.com/@kinbex)
 - **Facebook:** [https://facebook.com/kinbex](https://facebook.com/kinbex)
