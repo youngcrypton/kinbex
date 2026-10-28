@@ -1,0 +1,10 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: KINBEX MASTER TECHNICAL WHITEPAPER
+  structure:
+    - type: space
+      key: kinbex-whitepaper
+      title: Kinbex Whitepaper
+      path: /
+      content:
+        directory: ./
