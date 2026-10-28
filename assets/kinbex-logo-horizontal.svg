@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="hGradBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#060B18"/>
+      <stop offset="100%" stop-color="#0A1633"/>
+    </linearGradient>
+    <linearGradient id="hGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE54C"/>
+      <stop offset="50%" stop-color="#FFBE00"/>
+      <stop offset="100%" stop-color="#E69500"/>
+    </linearGradient>
+    <linearGradient id="hBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2666FF"/>
+      <stop offset="100%" stop-color="#0044FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="200" rx="16" fill="url(#hGradBg)" stroke="#0044FF" stroke-width="1.5" stroke-opacity="0.3"/>
+
+  <!-- Logo Mark Container -->
+  <g transform="translate(30, 20)">
+    <rect width="160" height="160" rx="28" fill="url(#hBlue)"/>
+    <!-- Organic Nodes -->
+    <g transform="translate(80, 80) rotate(-42) scale(0.35) translate(-250, -250)">
+      <path d="M 250,110 C 300,110 330,150 330,195 C 330,230 305,255 290,280 C 275,305 285,325 305,355 C 325,385 315,430 270,445 C 225,460 180,430 170,385 C 160,345 180,310 200,285 C 220,260 215,230 200,200 C 180,160 205,110 250,110 Z" fill="url(#hGold)"/>
+      <path d="M 370,270 C 395,270 415,290 415,315 C 415,335 400,350 390,365 C 380,380 385,395 395,410 C 408,425 400,450 375,458 C 350,465 325,448 320,425 C 315,405 325,385 335,370 C 345,355 342,338 335,322 C 325,300 340,270 370,270 Z" fill="#FFE54C"/>
+    </g>
+  </g>
+
+  <!-- Typography -->
+  <text x="220" y="105" font-family="'Segoe UI', 'Outfit', Roboto, Helvetica, sans-serif" font-size="64" font-weight="900" fill="#FFFFFF" letter-spacing="4">KINBEX</text>
+  <text x="500" y="105" font-family="'Segoe UI', 'Outfit', Roboto, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#FFBE00" letter-spacing="2">TERMINAL</text>
+  <text x="222" y="142" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#94A3B8" letter-spacing="1.5">THE UNIFIED WEB3 SOCIAL TERMINAL &amp; FINANCIAL RAILS</text>
+</svg>

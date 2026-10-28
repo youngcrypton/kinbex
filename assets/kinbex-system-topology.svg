@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%" style="background:#060B18; font-family:'Segoe UI',Roboto,Helvetica,sans-serif;">
+  <defs>
+    <linearGradient id="topCard" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E1B38"/>
+      <stop offset="100%" stop-color="#091326"/>
+    </linearGradient>
+    <linearGradient id="blueGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0047FF"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    <linearGradient id="goldGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFB800"/>
+      <stop offset="100%" stop-color="#FFDD55"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Title Header -->
+  <text x="550" y="45" text-anchor="middle" fill="#FFFFFF" font-size="24" font-weight="900" letter-spacing="2">KINBEX UNIFIED HIGH-THROUGHPUT SYSTEM TOPOLOGY</text>
+  <text x="550" y="70" text-anchor="middle" fill="#94A3B8" font-size="13">Non-Custodial Multi-Chain Enclave • Verified Alpha Engine (VAE) • Kin Pay African Clearinghouse</text>
+
+  <!-- TIER 1: CLIENT RUNTIME -->
+  <rect x="50" y="95" width="1000" height="95" rx="12" fill="url(#topCard)" stroke="#0047FF" stroke-width="1.8"/>
+  <rect x="65" y="110" width="180" height="26" rx="6" fill="#0047FF"/>
+  <text x="155" y="128" text-anchor="middle" fill="#FFFFFF" font-size="11" font-weight="800">TIER 1: CLIENT ENCLAVE</text>
+  
+  <text x="270" y="130" fill="#E2E8F0" font-size="13" font-weight="700">TanStack Reactive Client &amp; Sovereign Key Storage</text>
+  <text x="270" y="152" fill="#94A3B8" font-size="12">• React 18 Concurrent Presentation Layer • Client-Side AES-256 Key Vault • Multi-Chain Signer (EVM, Solana, TON)</text>
+  <text x="270" y="172" fill="#FFB800" font-size="11" font-weight="600">✦ WebRTC P2P Mesh with Persistent Floating Picture-in-Picture Voice/Video</text>
+
+  <!-- Flow Arrow Down -->
+  <line x1="550" y1="190" x2="550" y2="220" stroke="#FFB800" stroke-width="2.5" stroke-dasharray="4,4"/>
+  <text x="565" y="210" fill="#FFB800" font-size="11" font-weight="bold">Bi-directional WSS / Tick Ingestion</text>
+
+  <!-- TIER 2: TELEMETRY INGESTION -->
+  <rect x="50" y="220" width="1000" height="85" rx="12" fill="url(#topCard)" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="65" y="235" width="220" height="26" rx="6" fill="#1E293B" stroke="#0047FF" stroke-width="1"/>
+  <text x="175" y="252" text-anchor="middle" fill="#38BDF8" font-size="11" font-weight="800">TIER 2: REAL-TIME TELEMETRY</text>
+  
+  <text x="310" y="252" fill="#E2E8F0" font-size="13" font-weight="700">Sub-Second WebSocket Feed &amp; Mempool Streamers</text>
+  <text x="310" y="275" fill="#94A3B8" font-size="12">• DexScreener WSS Pipeline • Candlestick Aggregate Streams • Pair Liquidity &amp; Slippage Heatmap Calculators</text>
+
+  <!-- Diverging Arrows to Tier 3 & Tier 4 -->
+  <line x1="300" y1="305" x2="300" y2="340" stroke="#0047FF" stroke-width="2"/>
+  <line x1="800" y1="305" x2="800" y2="340" stroke="#FFB800" stroke-width="2"/>
+
+  <!-- TIER 3: VERIFIED ALPHA ENGINE (VAE) -->
+  <rect x="50" y="340" width="480" height="150" rx="12" fill="url(#topCard)" stroke="#0047FF" stroke-width="2"/>
+  <rect x="65" y="355" width="230" height="26" rx="6" fill="#0047FF"/>
+  <text x="180" y="372" text-anchor="middle" fill="#FFFFFF" font-size="11" font-weight="800">TIER 3: VERIFIED ALPHA (VAE)</text>
+  <text x="65" y="405" fill="#E2E8F0" font-size="13" font-weight="700">Cryptographic Call Entry Verification</text>
+  <text x="65" y="428" fill="#94A3B8" font-size="11">• Block Hash &amp; Timestamp Anchoring at t_0 (P_0 locked)</text>
+  <text x="65" y="446" fill="#94A3B8" font-size="11">• Dynamic Caller Score: DCS = [Σ w_i · ln(M_i)] · WinRate · (1 - δ·DD)</text>
+  <text x="65" y="468" fill="#FFB800" font-size="11" font-weight="bold">✦ Peak Multiplier (M) Oracle Tracking &amp; Tamper-Proof Rankings</text>
+
+  <!-- TIER 4: KINARA AI INTELLIGENCE -->
+  <rect x="570" y="340" width="480" height="150" rx="12" fill="url(#topCard)" stroke="#FFB800" stroke-width="2"/>
+  <rect x="585" y="355" width="220" height="26" rx="6" fill="#FFB800"/>
+  <text x="695" y="372" text-anchor="middle" fill="#060B18" font-size="11" font-weight="900">TIER 4: KINARA AI CO-PILOT</text>
+  <text x="585" y="405" fill="#E2E8F0" font-size="13" font-weight="700">On-Chain Safety &amp; NLP Sentiment Engine</text>
+  <text x="585" y="428" fill="#94A3B8" font-size="11">• Real-Time Bytecode Honeypot &amp; Mint Exploit Decompilation</text>
+  <text x="585" y="446" fill="#94A3B8" font-size="11">• Developer Token Cluster &amp; Wash-Trading Analysis</text>
+  <text x="585" y="468" fill="#38BDF8" font-size="11" font-weight="bold">✦ Autonomous PnL, Rebalancing &amp; Whale Tracking</text>
+
+  <!-- Arrows to Tier 5 & Tier 6 -->
+  <line x1="290" y1="490" x2="290" y2="525" stroke="#10B981" stroke-width="2"/>
+  <line x1="810" y1="490" x2="810" y2="525" stroke="#EC4899" stroke-width="2"/>
+
+  <!-- TIER 5: KIN PAY FINANCIAL RAILS -->
+  <rect x="50" y="525" width="480" height="135" rx="12" fill="url(#topCard)" stroke="#10B981" stroke-width="2"/>
+  <rect x="65" y="540" width="250" height="26" rx="6" fill="#10B981"/>
+  <text x="190" y="557" text-anchor="middle" fill="#060B18" font-size="11" font-weight="900">TIER 5: KIN PAY FINANCIAL RAILS</text>
+  <text x="65" y="590" fill="#E2E8F0" font-size="13" font-weight="700">Sub-30s Nigerian &amp; African Bank Off-Ramp</text>
+  <text x="65" y="612" fill="#94A3B8" font-size="11">• USDT/USDC/ETH/SOL to NGN Direct Bank Settlement</text>
+  <text x="65" y="632" fill="#34D399" font-size="11" font-weight="bold">✦ Automated Local Fiat Ramp-In &amp; Virtual Visa/Mastercard</text>
+
+  <!-- TIER 6: KINBEX GAME & TOKENOMICS -->
+  <rect x="570" y="525" width="480" height="135" rx="12" fill="url(#topCard)" stroke="#EC4899" stroke-width="2"/>
+  <rect x="585" y="540" width="250" height="26" rx="6" fill="#EC4899"/>
+  <text x="710" y="557" text-anchor="middle" fill="#FFFFFF" font-size="11" font-weight="900">TIER 6: GAME &amp; $KINBEX TOKEN</text>
+  <text x="585" y="590" fill="#E2E8F0" font-size="13" font-weight="700">In-Terminal Web3 Gaming &amp; Staking</text>
+  <text x="585" y="612" fill="#94A3B8" font-size="11">• Non-Custodial Tournament Smart Contract Prize Vaults</text>
+  <text x="585" y="632" fill="#F472B6" font-size="11" font-weight="bold">✦ $KINBEX Utility: Fee Discounts, Caller Bonds, Governance</text>
+</svg>

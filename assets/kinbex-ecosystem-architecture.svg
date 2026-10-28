@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="1000" height="520" style="background:#060B18; font-family:'Segoe UI',Roboto,Helvetica,sans-serif;">
+  <defs>
+    <linearGradient id="gradBrand" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0047FF"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#FFB800"/>
+    </linearGradient>
+    <linearGradient id="gradBox" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0E1B38"/>
+      <stop offset="100%" stop-color="#081021"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Title -->
+  <text x="500" y="45" text-anchor="middle" fill="#ffffff" font-size="24" font-weight="bold" letter-spacing="1">KINBEX UNIFIED ECOSYSTEM ARCHITECTURE</text>
+  <text x="500" y="70" text-anchor="middle" fill="#94a3b8" font-size="13">The All-in-One Web3 Social Terminal, Financial Rails, and Decentralized Experience</text>
+
+  <!-- Central Hub: KINBEX SUPER-TERMINAL -->
+  <rect x="360" y="200" width="280" height="120" rx="16" fill="url(#gradBox)" stroke="url(#gradBrand)" stroke-width="3"/>
+  <text x="500" y="245" text-anchor="middle" fill="#ffffff" font-size="20" font-weight="bold">KINBEX TERMINAL</text>
+  <text x="500" y="270" text-anchor="middle" fill="#38bdf8" font-size="12">kinbex.com</text>
+  <text x="500" y="295" text-anchor="middle" fill="#FFB800" font-size="11" font-weight="bold">Core Non-Custodial Multi-Chain Engine</text>
+
+  <!-- Pillar 1: Social & Live Spaces (Top Left) -->
+  <rect x="60" y="100" width="240" height="90" rx="12" fill="url(#gradBox)" stroke="#0047FF" stroke-width="1.5"/>
+  <text x="180" y="132" text-anchor="middle" fill="#38bdf8" font-size="15" font-weight="bold">1. Web3 Social &amp; Spaces</text>
+  <text x="180" y="155" text-anchor="middle" fill="#cbd5e1" font-size="11">Microblogging • Groups • Feeds</text>
+  <text x="180" y="173" text-anchor="middle" fill="#94a3b8" font-size="10">WebRTC Calls • Live Audio Spaces</text>
+  <line x1="300" y1="145" x2="380" y2="210" stroke="#0047FF" stroke-width="1.5" stroke-dasharray="4,4"/>
+
+  <!-- Pillar 2: Alpha Caller Verification (Bottom Left) -->
+  <rect x="60" y="320" width="240" height="90" rx="12" fill="url(#gradBox)" stroke="#FFB800" stroke-width="1.5"/>
+  <text x="180" y="352" text-anchor="middle" fill="#FFB800" font-size="15" font-weight="bold">2. Verified Caller Engine</text>
+  <text x="180" y="375" text-anchor="middle" fill="#cbd5e1" font-size="11">On-Chain Entry Timestamping</text>
+  <text x="180" y="393" text-anchor="middle" fill="#94a3b8" font-size="10">Tamper-Proof Multipliers &amp; Win-Rates</text>
+  <line x1="300" y1="365" x2="380" y2="300" stroke="#FFB800" stroke-width="1.5" stroke-dasharray="4,4"/>
+
+  <!-- Pillar 3: Kinara AI & Telemetry (Top Center) -->
+  <rect x="375" y="90" width="250" height="80" rx="12" fill="url(#gradBox)" stroke="#38BDF8" stroke-width="1.5"/>
+  <text x="500" y="122" text-anchor="middle" fill="#38BDF8" font-size="15" font-weight="bold">3. Kinara AI Intelligence</text>
+  <text x="500" y="145" text-anchor="middle" fill="#cbd5e1" font-size="11">Contract Auditing • Market Sentiment</text>
+  <line x1="500" y1="170" x2="500" y2="200" stroke="#38BDF8" stroke-width="1.5"/>
+
+  <!-- Pillar 4: Kin Pay Fiat Gateway (Top Right) -->
+  <rect x="700" y="100" width="240" height="90" rx="12" fill="url(#gradBox)" stroke="#10b981" stroke-width="1.5"/>
+  <text x="820" y="132" text-anchor="middle" fill="#34d399" font-size="15" font-weight="bold">4. Kin Pay (Fiat Rails)</text>
+  <text x="820" y="155" text-anchor="middle" fill="#cbd5e1" font-size="11">Crypto-to-Naira (NGN) Cashout</text>
+  <text x="820" y="173" text-anchor="middle" fill="#94a3b8" font-size="10">Stablecoin Ramp-In &amp; Virtual Cards</text>
+  <line x1="700" y1="145" x2="620" y2="210" stroke="#10b981" stroke-width="1.5" stroke-dasharray="4,4"/>
+
+  <!-- Pillar 5: Kinbex Game Studio (Bottom Right) -->
+  <rect x="700" y="320" width="240" height="90" rx="12" fill="url(#gradBox)" stroke="#ec4899" stroke-width="1.5"/>
+  <text x="820" y="352" text-anchor="middle" fill="#f472b6" font-size="15" font-weight="bold">5. Kinbex Game (Web3)</text>
+  <text x="820" y="375" text-anchor="middle" fill="#cbd5e1" font-size="11">Skill-Based Web3 Mini-Games</text>
+  <text x="820" y="393" text-anchor="middle" fill="#94a3b8" font-size="10">Play-and-Earn • Tournament Prize Pools</text>
+  <line x1="700" y1="365" x2="620" y2="300" stroke="#ec4899" stroke-width="1.5" stroke-dasharray="4,4"/>
+
+  <!-- Bottom: Token & Global Community -->
+  <rect x="230" y="440" width="540" height="55" rx="10" fill="url(#gradBox)" stroke="#FFB800" stroke-width="1"/>
+  <text x="500" y="465" text-anchor="middle" fill="#f8fafc" font-size="13" font-weight="bold">$KINBEX Token &amp; Kinbex Movement (Nigeria WhatsApp Hubs)</text>
+  <text x="500" y="483" text-anchor="middle" fill="#FFB800" font-size="11">Ecosystem Utility • Staking • Fee Discounts • Grassroots Web3 Academy</text>
+</svg>

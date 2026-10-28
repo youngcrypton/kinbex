@@ -1,0 +1,24 @@
+{
+  "title": "KINBEX MASTER TECHNICAL WHITEPAPER",
+  "author": "Kinbex Protocol Engineering Core",
+  "description": "The Unified Web3 Social Terminal, Alpha Verification, Kin Pay Financial Rails, & Gaming Ecosystem",
+  "language": "en",
+  "gitbook": ">=3.2.3",
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "plugins": [
+    "theme-default",
+    "katex",
+    "prism",
+    "anchors",
+    "search",
+    "collapsible-menu"
+  ],
+  "variables": {
+    "version": "3.0.0-PROD",
+    "canonicalDomain": "kinbex.com",
+    "brandPrimary": "#0047FF",
+    "brandAccent": "#FFB800"
+  }
+}

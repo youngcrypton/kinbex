@@ -1,0 +1,20 @@
+root: ./
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+title: Kinbex Master Technical Whitepaper
+description: The Unified Web3 Social Terminal, Alpha Verification, Kin Pay Financial Rails, & Gaming Ecosystem
+
+theme:
+  colors:
+    primary: "#0047FF"
+    accent: "#FFB800"
+    background: "#060B18"
+    sidebar: "#091326"
+
+branding:
+  logo:
+    url: assets/kinbex-logo-horizontal.svg
+  favicon:
+    url: assets/kinbex-logo.svg

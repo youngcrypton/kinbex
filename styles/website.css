@@ -1,0 +1,63 @@
+/* KINBEX GitBook Custom Brand System */
+:root {
+  --kinbex-blue-primary: #0047FF;
+  --kinbex-blue-dark: #060B18;
+  --kinbex-blue-sidebar: #091326;
+  --kinbex-gold-accent: #FFB800;
+  --kinbex-gold-light: #FFDD55;
+  --kinbex-text-main: #F8FAFC;
+  --kinbex-text-muted: #94A3B8;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: var(--kinbex-text-main);
+}
+
+.book .book-summary {
+  background: var(--kinbex-blue-sidebar) !important;
+  border-right: 1px solid rgba(0, 71, 255, 0.25) !important;
+}
+
+.book .book-summary ul.summary li a {
+  color: var(--kinbex-text-muted) !important;
+  transition: all 0.2s ease-in-out;
+}
+
+.book .book-summary ul.summary li a:hover,
+.book .book-summary ul.summary li.active > a {
+  color: var(--kinbex-gold-accent) !important;
+  font-weight: 600;
+  border-left: 3px solid var(--kinbex-blue-primary);
+  padding-left: 12px;
+}
+
+.page-inner {
+  max-width: 960px !important;
+}
+
+h1, h2, h3, h4 {
+  color: #FFFFFF !important;
+  letter-spacing: -0.01em;
+}
+
+h1 {
+  border-bottom: 2px solid var(--kinbex-blue-primary) !important;
+  padding-bottom: 12px;
+}
+
+a {
+  color: var(--kinbex-blue-primary) !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--kinbex-gold-accent) !important;
+}
+
+blockquote {
+  border-left: 4px solid var(--kinbex-gold-accent) !important;
+  background: rgba(255, 184, 0, 0.05);
+  padding: 12px 18px;
+  border-radius: 0 8px 8px 0;
+}
