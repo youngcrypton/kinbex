@@ -8,38 +8,13 @@
 [![Specification](https://img.shields.io/badge/Specification-v3.0.0--PROD-032BC8?style=for-the-badge&logo=gitbook&logoColor=white)](https://kinbex.com)
 [![Domain](https://img.shields.io/badge/Domain-kinbex.com-FFCC03?style=for-the-badge&logo=googlechrome&logoColor=black)](https://kinbex.com)
 [![Official X](https://img.shields.io/badge/X-@kinbexapp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kinbexapp)
-[![Brand Colors](https://img.shields.io/badge/Brand%20Palette-%23032BC8%20%7C%20%23FFCC03-032BC8?style=for-the-badge)](assets/kinbex-logo.png)
 [![Status](https://img.shields.io/badge/GitBook-Synchronized-032BC8?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/youngcrypton/kinbex)
 
 </div>
 
 ---
 
-## 🎨 Official Brand Kit & Identity System
-
-The visual identity of **KINBEX** is anchored by its core two-color chromatic system and dual kinetic symbol:
-
-<div align="center">
-  <img src="assets/kinbex-logo.png" width="160" alt="Official Kinbex Logo Mark" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(3, 43, 200, 0.4); margin: 12px;" />
-  <img src="assets/kinbex-mascot-techwear.jpg" width="160" alt="Kinbex 3D Protocol Mascot" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(255, 204, 3, 0.25); margin: 12px;" />
-  <img src="assets/kinbex-mascot-waving.jpg" width="160" alt="Kinara AI Ambassador" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(3, 43, 200, 0.4); margin: 12px;" />
-</div>
-
-### 1. The Core Color Palette
-| Color Role | Color Name | Hex Code | RGB | Visual Semantics |
-| :--- | :--- | :--- | :--- | :--- |
-| **Primary Base** | **Electric Royal Blue** | `#032BC8` | `rgb(3, 43, 200)` | Cryptographic integrity, liquidity depth, network sovereignty, and institutional trust |
-| **Primary Accent** | **Kinetic Golden Yellow** | `#FFCC03` | `rgb(255, 204, 3)` | Verified alpha, energy velocity, earned value, human optimism, and prosperity |
-
-### 2. Naming & Symbology Breakdown
-* **KIN (Kinetic Energy):** Forward momentum, execution velocity, continuous innovation, and liquidity routing.
-* **BEX (Community):** The decentralized collective of traders, builders, developers, researchers, and verified callers.
-* **The Dual Kinetic Nodes (Logo Mark):** Two interconnected, smooth metaball nodes moving together—symbolizing the inseparable convergence of technology (energy) and active community participation (people).
-* **Official Protocol Mascot (Kinara):** The cybernetic extraterrestrial ambassador embodying on-chain intelligence, community onboarding, and interactive terminal navigation.
-
----
-
-## 📋 Executive Summary
+## Executive Summary
 
 Decentralized finance (DeFi) and Web3 community coordination are constrained by severe ecosystem fragmentation. Active market participants must constantly context-switch across 4 to 6 separate applications—discovering tokens on social feeds, checking contract safety on scanners, analyzing charts on DexScreener, executing swaps on decentralized exchanges, and navigating high-risk informal P2P desks to off-ramp proceeds into local fiat.
 
@@ -55,7 +30,7 @@ Decentralized finance (DeFi) and Web3 community coordination are constrained by 
 
 ---
 
-## ⚡ High-Throughput System Topology
+## High-Throughput System Topology
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────┐
@@ -86,7 +61,7 @@ Decentralized finance (DeFi) and Web3 community coordination are constrained by 
 
 ---
 
-## 📚 Master Whitepaper Navigation
+## Master Whitepaper Navigation
 
 The complete specification is organized into 10 structured sections (31 technical chapters):
 
@@ -105,7 +80,7 @@ The complete specification is organized into 10 structured sections (31 technica
 
 ---
 
-## 🔒 Quantitative Alpha Formula: Dynamic Caller Score ($DCS$)
+## Quantitative Alpha Formula: Dynamic Caller Score ($DCS$)
 
 To guarantee objective, tamper-proof rankings for alpha callers, the protocol evaluates performance through a decay-weighted formula:
 
@@ -119,7 +94,7 @@ Where:
 
 ---
 
-## 🌐 Official Verification Directory
+## Official Verification Directory
 
 To prevent impersonation and phishing attacks, always verify links against this registry:
 

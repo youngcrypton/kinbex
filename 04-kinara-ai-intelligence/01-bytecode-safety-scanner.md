@@ -10,11 +10,6 @@ The cryptocurrency trading landscape is saturated with malicious smart contracts
 
 When a user views a token, Kinara analyzes the contract bytecode in sub-seconds before any swap is initiated.
 
-<div align="center">
-  <img src="../assets/kinbex-mascot-techwear.jpg" width="220" alt="Kinara AI Ambassador" style="border-radius: 16px; margin: 16px 0;" />
-  <p><em>Kinara AI — Autonomous On-Chain Security Ambassador</em></p>
-</div>
-
 ---
 
 ## 2. Monitored Vulnerability Signatures
